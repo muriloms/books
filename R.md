@@ -1,7 +1,7 @@
 # books
 ## Livros R
 
-### Coletânia d elivros
+### Coletânia de livros
 https://www.r-project.org/doc/bib/R-books.html
 
 ### Introduction to probability and statistics using R
