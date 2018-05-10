@@ -1,6 +1,9 @@
 # books
 ## Livros R
 
+### Coletânia d elivros
+https://www.r-project.org/doc/bib/R-books.html
+
 ### Introduction to probability and statistics using R
 https://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf
 ### An introduction to R
